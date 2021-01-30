@@ -32,17 +32,20 @@ h1, h2 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color: beige
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: beige
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: rebeccapurple
 }
 
 img {
@@ -53,6 +56,7 @@ img {
 
 p {
   font-size: 1em;
+  color: black
 }
 
 a {
